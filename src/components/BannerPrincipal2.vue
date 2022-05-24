@@ -5,14 +5,14 @@
   )
     .row.banner-principal__row.position-relative.justify-content-center.align-items-center
       .col-lg-7.col-xxl-6.py-sm-5.banner-principal__info.ps-5
-        .banner-principal__componente(style= "margin-left: 0.5rem")
+        .banner-principal__componente
           h1.mb-0(v-html="globalData.componenteFormativo")
         .col-lg-12
-          .banner-principal__descripcion(style= "margin-left: 0.5rem")
+          .banner-principal__descripcion
             p.mb-0(v-html="globalData.descripcionCurso")
-        .banner-principal__accion(style= "margin-left: 0.5rem")
+        .banner-principal__accion(style= "margin-left: -40px")
           router-link.boton(:to="{name: iniciarLnk.nombreRuta }")
-            span.me-1 Iniciar
+            span Iniciar
             i.fas.fa-angle-right
 
       .d-none.d-lg-block.col-lg-6.px-0.banner-principal__img.img-banner
@@ -49,8 +49,8 @@ export default {
   height: 100% !important
   width: 10%
 .banner-principal__info
-  padding-left: 70px
-  z-index: 3
+  padding-left: 1rem
+
 
 
 .banner-principal
@@ -60,11 +60,12 @@ export default {
       margin-left: -50px
 
   .tarjeta
-    background-size: contain
+    background-size: cover
     background-position: center
     background-repeat: no-repeat
     top: 49px
     margin-bottom: 70px
+    height: 500px
     @media (max-width: 992px)
       background-size: cover
       background-position: center
@@ -76,6 +77,7 @@ export default {
     display: flex
     flex-direction: column
     justify-content: center
+    margin-left: 17px
 
   &__programa
     display: flex
@@ -115,7 +117,9 @@ export default {
 
   &__img
     animation: scale 5s ease-in-out infinite alternate
-    width: 24.4%
+    width: 28%
+    margin-left: 30px
+    margin-top: 16px
     z-index: 9
 
 
@@ -145,21 +149,20 @@ export default {
     position: absolute
     width: 36px
     top: 10rem
-    left: 11%
+    left: 3%
   &_2
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    width: 420px
-    bottom: 15px
-    box-shadow:
-    left: 60%
+    width: 450px
+    bottom: 100px
+    left: 59%
     z-index: 3
   &_3
     animation: float1 3.8s ease-in-out infinite alternate
     position: absolute
     width: 35px
-    top: 22rem
-    left: 61%
+    top: 25rem
+    left: 58%
   &_4
     animation: float1 4s ease-in-out infinite alternate
     position: absolute
@@ -170,19 +173,19 @@ export default {
   &_5
     animation: giro .9s ease-in-out infinite alternate
     position: absolute
-    width: 400px
-    top: 0rem
-    left: 60%
+    width: 472px
+    top: 3rem
+    left: 58%
     z-index: 0
     @keyframes giro
   &_6
     filter: blur(2px)
     animation: float1 2.7s ease-in-out infinite alternate
     position: absolute
-    width: 89px
+    width: 100px
     bottom: -20rem
     box-shadow: none
-    left: 36%
+    left: 31.3%
     z-index: 1
   &_7
     animation: float1 2.5s ease-in-out infinite alternate
@@ -207,7 +210,7 @@ export default {
     position: absolute
     width: 69px
     top: 3%
-    right: 9%
+    right: 1%
 
 
 
