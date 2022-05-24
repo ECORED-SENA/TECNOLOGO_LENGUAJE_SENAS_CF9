@@ -10,7 +10,7 @@
         .col-lg-12
           .banner-principal__descripcion
             p.mb-0(v-html="globalData.descripcionCurso")
-        .banner-principal__accion(style= "margin-left: -40px")
+        .banner-principal__accion
           router-link.boton(:to="{name: iniciarLnk.nombreRuta }")
             span Iniciar
             i.fas.fa-angle-right
@@ -57,7 +57,8 @@ export default {
   p, h1, h2, h3, h4, h5, h6
     color: $color-banner-text
     @media (max-width: $bp-max-xs)
-      margin-left: -50px
+      margin-left: 9px
+      margin-top: -12px
 
   .tarjeta
     background-size: cover
@@ -72,6 +73,9 @@ export default {
       background-repeat: no-repeat
       top: 49px
       margin-bottom: 50px
+      width: 100%
+      height: 555px
+
 
   &__info
     display: flex
@@ -93,15 +97,17 @@ export default {
 
       @media (max-width: $bp-max-xs)
         font-size: 2em
-        margin-left: -40px
-        margin-top: 10px
+        margin-left: 10px
+        margin-top: 7px
 
   &__descripcion
     margin-bottom: 20px
     margin-left: -40px
     @media (max-width: $bp-max-xs)
-      margin-left: -40px
       margin-right: 24px
+
+  &__accion
+    margin-left: -40px
 
   &__row
     @if $banner-principal-img-x == 'derecha'
