@@ -183,40 +183,40 @@ export default {
     contenidoInstruccional: [
       {
         nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor metodológico y pedagógico',
+        cargo: 'Asesor pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Jhacesiz Mary Hincapié Atehortúa',
-        cargo: 'Instructora',
-        centro: 'Centro de Servicios de Salud Regional Antioquia',
-      },
-      {
-        nombre: 'Manuel Alejandro Garzón',
-        cargo: 'Instructor',
-        centro: 'Centro de Servicios de Salud Regional Antioquia',
-      },
-      {
-        nombre: 'German Albeiro Saldarriga',
-        cargo: 'Instructor',
-        centro: 'Centro de Servicios de Salud Regional Antioquia',
-      },
-      {
-        nombre: 'Adriana María Bustamante',
-        cargo: 'Profesional Diseño Curricular',
-        centro: 'Centro de Servicios de Salud Regional Antioquia',
-      },
-      {
-        nombre: 'Luz Mila Pacheco Fuentes',
-        cargo: 'Diseñadora Instruccional',
-        centro: 'Centro de Diseño y Metrología Regional Distrito Capital',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Martha Isabel Martínez Vargas',
         cargo: 'Productora audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Luz Mila Pacheco Fuentes',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Adriana María Bustamante',
+        cargo: 'Profesional diseño curricular',
+        centro: 'Centro de Servicios de Salud - Regional Antioquia',
+      },
+      {
+        nombre: 'German Albeiro Saldarriga',
+        cargo: 'Instructor',
+        centro: 'Centro de Servicios de Salud - Regional Antioquia',
+      },
+      {
+        nombre: 'Manuel Alejandro Garzón',
+        cargo: 'Instructor',
+        centro: 'Centro de Servicios de Salud - Regional Antioquia',
+      },
+      {
+        nombre: 'Jhacesiz Mary Hincapié Atehortúa',
+        cargo: 'Instructora',
+        centro: 'Centro de Servicios de Salud - Regional Antioquia',
       },
     ],
     desarrolloProducto: [
@@ -224,43 +224,37 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
         nombre: 'Diana Carolina Acevedo Barón',
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Marcia Elizabeth Solano Alvarez',
         cargo: 'Desarrollo Front-End',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Nombre',
+        nombre: 'Juan Daniel Polanco Muñoz',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },

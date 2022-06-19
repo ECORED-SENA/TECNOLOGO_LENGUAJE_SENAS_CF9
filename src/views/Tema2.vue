@@ -73,7 +73,7 @@
           p Aunque el intérprete de lengua de señas intenta adoptar el mismo nivel tonal del orador, la gramática utilizada en los servicios de interpretación debe ser precisa dependiendo de los hablantes nativos, es decir, los sordos que se ven involucrados en el ejercicio. Por lo tanto, al conocer de antemano a la comunidad sorda a la que se prestará el servicio, el intérprete tendrá la flexibilidad de la sintaxis en la transmisión de una idea o concepto. 
       .col-12-.col-md-6
         figure
-          img.mb-4.mb-md-0(src='@/assets/curso/tema1/img03.png' data-aos="zoom-in-down")
+          img.mb-4.mb-md-0.mt-4.mt-md-0(src='@/assets/curso/tema1/img03.png' data-aos="zoom-in-down")
 
     Separador
 

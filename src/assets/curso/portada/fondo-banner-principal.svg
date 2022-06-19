@@ -18,7 +18,7 @@
       <stop offset="1" stop-color="#7c9a02"/>
     </linearGradient>
   </defs>
-  <g id="Grupo_80119" data-name="Grupo 80119" transform="translate(0.001 -4.862)">
+  <g id="Grupo_80618" data-name="Grupo 80618" transform="translate(0.001 -4.862)">
     <g id="Enmascarar_grupo_51" data-name="Enmascarar grupo 51" transform="translate(0 4.862)" clip-path="url(#clip-path)">
       <g id="Grupo_80114" data-name="Grupo 80114" transform="translate(-21.579 -175.101)">
         <g id="Grupo_80113" data-name="Grupo 80113" clip-path="url(#clip-path-2)">
@@ -44,11 +44,6 @@
     <g id="Grupo_80117" data-name="Grupo 80117" transform="translate(431.343 420.052)">
       <path id="Trazado_100685" data-name="Trazado 100685" d="M82.189,0,71.99,7.846,61.787,0l-10.2,7.846L41.391,0,31.2,7.846,21,0,10.8,7.846,1.2.461,0,2.015l10.8,8.306L21,2.475l10.2,7.846,10.2-7.846,10.2,7.846,10.2-7.846,10.2,7.846,10.2-7.846L92.4,10.321l10.8-8.306L102,.46,92.4,7.847Z" transform="translate(-0.001 0)" fill="#bbe7f6"/>
       <path id="Trazado_100686" data-name="Trazado 100686" d="M71.99,17.846,61.788,10l-10.2,7.846L41.391,10,31.2,17.846,21,10,10.8,17.846,1.2,10.461,0,12.015l10.8,8.306L21,12.474l10.2,7.847,10.2-7.847,10.2,7.847,10.2-7.847,10.2,7.847,10.2-7.847L92.4,20.321l10.8-8.306-1.195-1.556L92.4,17.847,82.19,10Z" transform="translate(-0.001 -0.192)" fill="#bbe7f6"/>
-    </g>
-    <g id="Grupo_80118" data-name="Grupo 80118" transform="translate(70.692 360.121)">
-      <path id="Trazado_100689" data-name="Trazado 100689" d="M19.875,238.564l-.546-13.66,13.661.546.119-2.993-16.9-.676.676,16.9Z" transform="translate(-16.206 -221.782)" fill="#f4dd4e"/>
-      <path id="Trazado_100690" data-name="Trazado 100690" d="M11.772,246.666l-.546-13.659,13.661.546.119-2.994-16.9-.676.676,16.9Z" transform="translate(-0.157 -221.937)" fill="#f4dd4e"/>
-      <path id="Trazado_100691" data-name="Trazado 100691" d="M16.9,238.661l-.121,2.994L3.124,241.11l.546,13.659-2.994.12L0,237.985Z" transform="translate(15.893 -222.093)" fill="#f4dd4e"/>
     </g>
     <g id="Elipse_4065" data-name="Elipse 4065" transform="translate(615.227 25.691) rotate(47)" fill="none" stroke="#fff" stroke-width="2">
       <ellipse cx="16.208" cy="11.059" rx="16.208" ry="11.059" stroke="none"/>
