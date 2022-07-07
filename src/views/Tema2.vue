@@ -47,25 +47,25 @@
           h4 Existen diferentes procedimientos para la obtención de resultados óptimos:
           .row.justify-content-center.align-items-center 
             .col-md-1.flex-end
-              h1.font_1 1            
+              h1.mx-auto.font_1 1            
             .col-md-2
               .verticalLine 
-                p.m-0.ms-2 Entender la no conformidad, el fallo o error en la prestación del servicio.
+                p.ms-2 Entender la no conformidad, el fallo o error en la prestación del servicio.
             .col-md-1.flex-end
-              h1.font_1 2            
+              h1.mx-auto.font_1 2            
             .col-md-2
               .verticalLine 
-                p.m-0.ms-2 Analizar la causa raíz o el porqué de la no conformidad.
+                p.ms-2 Analizar la causa raíz o el porqué de la no conformidad.
             .col-md-1.flex-end
-              h1.font_1 3            
+              h1.mx-auto.font_1 3            
             .col-md-2
               .verticalLine 
-                p.m-0.ms-2 Establecer una acción correctiva que elimine la causa raíz (cómo se llevará a cabo).
+                p.ms-2 Establecer una acción correctiva que elimine la causa raíz (cómo se llevará a cabo).
             .col-md-1.flex-end
-              h1.font_1 4            
+              h1.mx-auto.font_1 4            
             .col-md-2
               .verticalLine 
-                p.m-0.ms-2.mb-4 Verificar la eficacia de la acción correctiva.
+                p.ms-2.mb-4 Verificar la eficacia de la acción correctiva.
 
     .row.justify-content-center-align-items-center
       .col-12.col-md-6
@@ -98,10 +98,6 @@
           img.mb-4.mb-md-0(src='@/assets/curso/tema2/img04.png' data-aos="zoom-in-down")
     
     p.mb-4 El intérprete necesita de una buena memoria para transmitir las expresiones, pero, además, debe acomodarse al estilo de expresión, dependiendo de los rasgos peculiares característicos del tema a interpretar, la población sorda, nivel educativo, contexto y demás elementos que definen el servicio.
-
-    Separador
-
-
 
 
 

@@ -40,9 +40,9 @@
           p.m-0 Otro método de revisión y corrección es el de validación, donde también se entrega el trabajo realizado a un revisor, pero en este caso las correcciones y opiniones del trabajo se hacen en un informe, se le devuelven al mismo traductor y éste finalmente debe leerlas cuidadosamente para hacer los ajustes necesarios. Este proceso ocupa más tiempo que el método de edición.
       .col-12-.col-md-6
         figure
-          img.mb-4.mb-md-0.height_img-t-1.mt-4.mt-md-0(src='@/assets/curso/tema1/img03.png' data-aos="zoom-in-down")
+          img.mb-4.mb-md-0.mt-4.mt-md-0(src='@/assets/curso/tema1/img03.png' data-aos="zoom-in-down")
 
-    Separador
+   
 
 </template>
 
