@@ -118,7 +118,7 @@ export default {
     },
     {
       referencia:
-        'Resolución 5274 de 2017. Por la cual se reglamenta el proceso de reconocimiento oficial de intérpretes oficiales de la Lengua de Señas Colombiana – Español. 21 de marzo de 2017. D.O. 50.182',
+        'Resolución 5274 de 2017. Por la cual se reglamenta el proceso de reconocimiento oficial de intérpretes oficiales de la Lengua de Señas Colombiana – Español. 21 de marzo de 2017. D.O. 50.182.',
     },
     {
       referencia:
@@ -144,13 +144,13 @@ export default {
   complementario: [
     {
       texto:
-        'Resolución 5274 de 2017. Por la cual se reglamenta el proceso de reconocimiento oficial de intérpretes oficiales de la Lengua de Señas Colombiana – Español. 21 de marzo de 2017. D.O. 50.182',
+        'Resolución 5274 de 2017. Por la cual se reglamenta el proceso de reconocimiento oficial de intérpretes oficiales de la Lengua de Señas Colombiana – Español. 21 de marzo de 2017. D.O. 50.182.',
       tipo: 'Artículo',
       descarga: '/downloads/prueba.pdf',
     },
     {
       texto:
-        'Bacco, S. (2017). Gestión de calidad y normalización aplicadas a la traducción/Quality management and standardization as applied to translation. Superando límites en traducción e interpretación Além dos limites em tradução e interpretação Beyond limits in Translation and Interpreting, 39.',
+        'Bacco, S. (2017). Gestión de calidad y normalización aplicadas a la traducción/<em>Quality management and standardization as applied to translation</em>. Superando límites en traducción e interpretación Além dos limites <em>em tradução e interpretação Beyond limits in Translation and Interpreting,</em> 39.',
       tipo: 'Artículo',
       descarga: '/downloads/prueba.pdf',
     },

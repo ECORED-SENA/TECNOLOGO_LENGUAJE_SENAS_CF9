@@ -13,7 +13,7 @@
         figure
           img(src='@/assets/curso/introduccion/img01.png' data-aos="zoom-in-down")
     
-    p.mb-5 De acuerdo con ISO 17100, como se citó en INSOR (2019), interpretar se define como el acto de verter una lengua a otra información oral o en forma de Signos, de esta manera los intérpretes de Lengua de Señas Colombiana (LSC) trabajan para permitir intercambios comunicativos entre los usuarios la lengua de señas y los usuarios de habla español. 
+    p.mb-5 De acuerdo con ISO 17100, como se citó en INSOR (2019), interpretar se define como el acto de verter una lengua a otra información oral o en forma de signos, de esta manera los intérpretes de Lengua de Señas Colombiana (LSC) trabajan para permitir intercambios comunicativos entre los usuarios la lengua de señas y los usuarios de habla español. 
 
     .row.justify-content-center.align-items-center.mb-5         
       .col-lg-10 
