@@ -227,14 +227,26 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
+        nombre: 'Juan Daniel Polanco Muñoz',
+        cargo: 'Validación de diseño',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
         nombre: 'Marcia Elizabeth Solano Alvarez',
         cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Juan Daniel Polanco Muñoz',
-        cargo: 'Validación de diseño y contenido',
+        nombre: 'Andrea Botello',
+        cargo: 'Validación de maquetación',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Mayra Alejandra Alvarez ',
+        cargo: 'Validación de contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
